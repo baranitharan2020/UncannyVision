@@ -1,0 +1,25 @@
+{
+	Choose an Action
+	Front
+	Back
+	Side
+}
+{
+	Choose an Action
+	Sitting
+	Standing
+	Walking
+	Bending
+}
+{
+	&Picking
+	P&icking from top
+	&Talking on phone
+	&Looking at phone
+}
+{
+	T&rolley
+	&Basket
+	B&ag
+	&Kid
+}
