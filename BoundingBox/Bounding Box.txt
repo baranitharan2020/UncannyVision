@@ -1,0 +1,13 @@
+How to use:
+1. Create a bounding box in an image. This marks the start of the action.
+2. Choose any action.
+3. Create another bounding box in any succeeding image. This marks the end of the action.
+4. Action is automatically chosen for the ending image.
+
+Bugs:
+1. Use "Delete Action" button to delete any annotation. Clear (C) doesn't work for that purpose.
+
+How the information is stored:
+Details of every different action is stored in a different text file.
+File format: index_image-name_start-image-index_end-image-index.txt
+The file stores the coordinates of the starting and ending image annotation.
