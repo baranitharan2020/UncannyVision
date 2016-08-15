@@ -1,5 +1,0 @@
-Version 1: basic loop marking option
-Version 2: added option to choose action labels
-Version 3: added color codes for action labels, fixed "item has already been added to the scene" bug
-Version 4: added undo functionality
-Version 5: added an option to choose action label from a popup

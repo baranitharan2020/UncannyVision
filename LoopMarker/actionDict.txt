@@ -1,6 +1,0 @@
-Choose Action Label
-Standing
-Sleeping
-Sitting
-Walking
-Crouching
