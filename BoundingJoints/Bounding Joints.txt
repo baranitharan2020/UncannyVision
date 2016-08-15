@@ -1,0 +1,19 @@
+Version 1:
+Annotate joints (14)
+
+Version 1.5:
+Clear, save and read annotations
+
+Version 2:
+Added undo
+Fixed zoom bug
+
+Version 2.5:
+Fixing zoom introduced another bug with undo which was also fixed
+
+Version 3:
+Added image actions for joints
+Added a label to display the order in which persons are annotated
+Fixed some bugs introduced by adding these features
+
+Version 4:
